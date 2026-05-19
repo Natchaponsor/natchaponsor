@@ -14,7 +14,7 @@ On GitHub, I document the things I actually build: AI workflows, prompt systems,
 
 | Repository | What it is |
 |---|---|
-| [new-bose-product-concept](./new-bose-product-concept) | AI-driven product strategy with demo landing page — Kellogg AI in Marketing Class |
+| [new-bose-product-concept](https://github.com/Natchaponsor/new-bose-product-concept) | AI-driven product strategy with demo landing page — Kellogg AI in Marketing Class |
 | [pm-resources](#) | PM templates, frameworks, and notes I actually use |
 
 ---
