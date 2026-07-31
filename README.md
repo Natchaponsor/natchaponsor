@@ -16,6 +16,8 @@ On GitHub, I document the things I actually build: AI workflows, prompt systems,
 |---|---|
 | [new-bose-product-concept](https://github.com/Natchaponsor/new-bose-product-concept) | AI-driven product strategy with demo landing page — Kellogg AI in Marketing Class |
 | [Intensity-Level-Game](https://github.com/Natchaponsor/intensity_level_game) | A real-time intensity matching party game |
+| [stock-tracker](https://github.com/Natchaponsor/stock-tracker) | A real-time stock tracker with watchlist signals, open positions, and a P&L journal |
+| [trading-dashboard](https://github.com/Natchaponsor/trading-dashboard) | A day-trading journal that allows you to log trades and review performance, all in a local dashboard |
 ---
 
 ## Background
