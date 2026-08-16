@@ -18,7 +18,7 @@ On GitHub, I document the things I actually build: AI workflows, prompt systems,
 | [Intensity-Level-Game](https://github.com/Natchaponsor/intensity_level_game) | A real-time intensity matching party game |
 | [stock-tracker](https://github.com/Natchaponsor/stock-tracker) | A real-time stock tracker with watchlist signals, open positions, and a P&L journal |
 | [trading-dashboard](https://github.com/Natchaponsor/trading-dashboard) | A day-trading journal that allows you to log trades and review performance, all in a local dashboard |
-| [job-scanner-agents (To be published)] | A personal job scanner for unique company career sites targeting full-time roles with digestible filters, all available locally in your browser|
+| (To be published) job-scanner-agents | A personal job scanner for unique company career sites targeting full-time roles with digestible filters, all available locally in your browser|
 ---
 
 ## Background
