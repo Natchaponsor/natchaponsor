@@ -14,7 +14,7 @@ On GitHub, I document the things I actually build: AI workflows, prompt systems,
 
 | Repository | What it is |
 |---|---|
-| [pdf-tools](https://github.com/Natchaponsor/pdf-tools) | Paperplane — private PDF tools (compress, merge, split, organize pages, convert) that run entirely in your browser, with nothing ever uploaded |
+| [pdf-tools](https://github.com/Natchaponsor/pdf-tools) | Paperplane — a private, 14-tool PDF suite (compress, merge, split, organize, rotate, protect, grayscale, convert) that runs entirely in your browser, with nothing ever uploaded |
 | [trading-dashboard](https://github.com/Natchaponsor/trading-dashboard) | A day-trading journal that allows you to log trades and review performance, all in a local dashboard |
 | [stock-tracker](https://github.com/Natchaponsor/stock-tracker) | A real-time stock tracker with watchlist signals, open positions, and a P&L journal |
 | [Intensity-Level-Game](https://github.com/Natchaponsor/intensity_level_game) | A real-time intensity matching party game |
