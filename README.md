@@ -14,12 +14,12 @@ On GitHub, I document the things I actually build: AI workflows, prompt systems,
 
 | Repository | What it is |
 |---|---|
-| [jobs-scanner-agents](https://github.com/Natchaponsor/jobs-scanner-agents) | A local-first job scanner that pulls roles directly from company career sites (Greenhouse, Workday, Lever, Ashby, and 15+ others) instead of scraping LinkedIn — filter by location, function, experience, and work authorization, track saved/applied status, and export to Excel, with an optional daily background refresh via GitHub Actions. No paid APIs, no LLM calls, your data never leaves your browser |
-| [pdf-tools](https://github.com/Natchaponsor/pdf-tools) | Paperplane — a private, 14-tool PDF suite (compress, merge, split, organize, rotate, protect, grayscale, convert) that runs entirely in your browser, with nothing ever uploaded |
+| [jobs-scanner-agents](https://github.com/Natchaponsor/jobs-scanner-agents) | A local-first job scanner that pulls roles directly from company career sites (Greenhouse, Workday, Lever, Ashby, and 15+ others) instead of scraping LinkedIn. Filter by location, function, experience, and work authorization, track saved/applied status, and export to Excel, with an optional daily background refresh via GitHub Actions. No paid APIs, no LLM calls, and your data never leaves your browser |
+| [pdf-tools](https://github.com/Natchaponsor/pdf-tools) | Paperplane: a private, 14-tool PDF suite (compress, merge, split, organize, rotate, protect, grayscale, convert) that runs entirely in your browser, with nothing ever uploaded |
 | [trading-dashboard](https://github.com/Natchaponsor/trading-dashboard) | A day-trading journal that allows you to log trades and review performance, all in a local dashboard |
 | [stock-tracker](https://github.com/Natchaponsor/stock-tracker) | A real-time stock tracker with watchlist signals, open positions, and a P&L journal |
 | [Intensity-Level-Game](https://github.com/Natchaponsor/intensity_level_game) | A real-time intensity matching party game |
-| [new-bose-product-concept](https://github.com/Natchaponsor/new-bose-product-concept) | AI-driven product strategy with demo landing page — Kellogg AI in Marketing Class |
+| [new-bose-product-concept](https://github.com/Natchaponsor/new-bose-product-concept) | AI-driven product strategy with a demo landing page, built for Kellogg's AI in Marketing class |
 ---
 
 ## Background
@@ -33,7 +33,7 @@ On GitHub, I document the things I actually build: AI workflows, prompt systems,
 - Product Manager, LINE BK (KasikornBank × LINE Joint Venture) · 2021 – 2024
 - AI Product Strategy Intern, True Fiktion · Summer 2025
 - Venture Fellow at Equiseed · Winter 2025
-- Business Intelligence Developer, Agoda (Booking Holdings)  · 2021
+- Business Intelligence Developer, Agoda (Booking Holdings) · 2021
 - Business Intelligence Developer Intern, Agoda (Booking Holdings) · Winter - Summer 2021
 
 **Education**
@@ -56,10 +56,10 @@ Data          Tableau · Cohort Analysis · Funnel Analysis
 
 ## Beyond Work
 
-- 🎷 **Music** — Saxophone amd Clarinet player. Former orchestra lead. Organized a music tour for 1,000+ students in a rural area in Thailand.
-- 🧗 **Rock Climbing** — My preferred way to think through hard problems.
-- ✈️ **Travel** — Explore the true beauty of nature
-- 🎲 **Board Games** — Competitive Board Game Enthusiast.
+- 🎷 **Music**: Saxophone and clarinet player. Former orchestra lead. Organized a music tour for 1,000+ students in a rural area in Thailand.
+- 🧗 **Rock Climbing**: My preferred way to think through hard problems.
+- ✈️ **Travel**: Exploring the true beauty of nature.
+- 🎲 **Board Games**: Competitive board game enthusiast.
 
 
 
