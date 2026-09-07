@@ -14,12 +14,12 @@ On GitHub, I document the things I actually build: AI workflows, prompt systems,
 
 | Repository | What it is |
 |---|---|
+| [jobs-scanner-agents](https://github.com/Natchaponsor/jobs-scanner-agents) | A local-first job scanner that pulls roles directly from company career sites (Greenhouse, Workday, Lever, Ashby, and 15+ others) instead of scraping LinkedIn — filter by location, function, experience, and work authorization, track saved/applied status, and export to Excel, with an optional daily background refresh via GitHub Actions. No paid APIs, no LLM calls, your data never leaves your browser |
 | [pdf-tools](https://github.com/Natchaponsor/pdf-tools) | Paperplane — a private, 14-tool PDF suite (compress, merge, split, organize, rotate, protect, grayscale, convert) that runs entirely in your browser, with nothing ever uploaded |
 | [trading-dashboard](https://github.com/Natchaponsor/trading-dashboard) | A day-trading journal that allows you to log trades and review performance, all in a local dashboard |
 | [stock-tracker](https://github.com/Natchaponsor/stock-tracker) | A real-time stock tracker with watchlist signals, open positions, and a P&L journal |
 | [Intensity-Level-Game](https://github.com/Natchaponsor/intensity_level_game) | A real-time intensity matching party game |
 | [new-bose-product-concept](https://github.com/Natchaponsor/new-bose-product-concept) | AI-driven product strategy with demo landing page — Kellogg AI in Marketing Class |
-| (To be published) job-scanner-agents | A personal job scanner for unique company career sites targeting full-time roles with digestible filters, all available locally in your browser|
 ---
 
 ## Background
